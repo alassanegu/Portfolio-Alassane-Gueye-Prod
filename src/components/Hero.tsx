@@ -54,7 +54,7 @@ const Hero: React.FC = () => {
           {/* Boutons CTA */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12 animate-slide-up-delay-2">
             <a
-              href="/CV_FullStack_Alassane_Gueye.pdf"
+              href="/CV_Alassane_GUEYE.pdf"
               download
               className="inline-flex items-center px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1"
             >
